@@ -1,37 +1,28 @@
-<h1 align="center">
-  <a href="">
-    <img src="/src/assets/redux-quiz.svg" alt="Project Banner Image">
-  </a>
-</h1>
+Project Quiz Redux
 
-# Redux Quiz
+This project is a quiz application built using Redux. It allows users to participate in quizzes, answer questions, and track their scores. Here are the key features:
 
-Replace this readme with your own information about your project.
+    Quiz Questions:
+        Users can access a variety of quiz questions.
+        Questions cover different topics or themes.
 
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+    Answer Tracking:
+        The app keeps track of user answers.
+        Users can see their scores and progress.
 
-## Getting Started with the Project
+    Interactive UI:
+        We designed an intuitive interface for answering questions.
+        Users can navigate through questions easily.
 
-### Dependency Installation & Startup Development Server
+    Redux State Management:
+        We utilized Redux for managing the application state.
+        State updates occur seamlessly during quiz interactions.
 
-Once cloned, navigate to the project's root directory and this project uses npm (Node Package Manager) to manage its dependencies.
+Usage
 
-The command below is a combination of installing dependencies, opening up the project on VS Code and it will run a development server on your terminal.
+    Clone this repository.
+    Install dependencies (npm install or yarn install).
+    Run the app (npm start or yarn start).
+    Start quizzing and have fun!
 
-```bash
-npm i && code . && npm run dev
-```
-
-### The Problem
-
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
-
-### View it live
-
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
-
-## Instructions
-
-<a href="instructions.md">
-   See instructions of this project
-  </a>
+Feel free to customize and enhance this app as needed. Happy quizzing! 🧠🔍
